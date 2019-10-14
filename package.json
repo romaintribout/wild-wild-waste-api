@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/romaintribout/wild-wild-waste-api#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-promise": "^4.2.1"
   }
 }
