@@ -1,0 +1,19 @@
+{
+  "name": "wild-wild-waste-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romaintribout/wild-wild-waste-api.git"
+  },
+  "author": "Romain Tribout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romaintribout/wild-wild-waste-api/issues"
+  },
+  "homepage": "https://github.com/romaintribout/wild-wild-waste-api#readme"
+}
